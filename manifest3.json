@@ -1,0 +1,12 @@
+{ 
+"package": "farmwareTest",
+ "language": "python",
+ "author": "UNH_Farmbot",
+ "description": "Farmware Test",
+ "version": "1.0.0",
+ "min_os_version_major": 3,
+ "url": "https://raw.githubusercontent.com/ea2004/SampleUNHFarm1/master/manifest3.json",
+ "zip": "https://github.com/ea2004/SampleUNHFarm1/archive/master.zip",
+ "executable": "python",
+ "args": ["SampleUNHFarm1-master/farmwareTest.py"]
+}
